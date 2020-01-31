@@ -1,0 +1,23 @@
+{
+  "name": "@alphasquad/object-deep-compare",
+  "version": "1.0.0",
+  "description": "Deep compare two JSON objects.",
+  "main": "lib/index.js",
+  "types": "./lib",
+  "scripts": {
+    "build": "tsc . -p"
+  },
+  "author": "AlphaSquad",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  },
+  "keywords": [
+    "javascript", "nodejs", "object-compare","deep-equal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aqkhan/object-deep-compare"
+  }, 
+  "homepage": "https://github.com/aqkhan/object-deep-compare"
+}
